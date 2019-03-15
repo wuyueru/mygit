@@ -1,0 +1,85 @@
+In archive /home/rita/esp32/my_tcp_led2/build/main/libmain.a:
+
+station_example_main.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.event_handler 00000044  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.tcp_server_task 000000d0  00000000  00000000  00000078  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.wifi_init_sta 0000009c  00000000  00000000  00000148  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .literal.tcp_recv_task 000000bc  00000000  00000000  000001e4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  4 .literal.app_main 00000060  00000000  00000000  000002a0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  5 .text         00000000  00000000  00000000  00000300  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  6 .data         00000000  00000000  00000000  00000300  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  7 .bss          00000000  00000000  00000000  00000300  2**0
+                  ALLOC
+  8 .rodata.str1.4 00000557  00000000  00000000  00000300  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  9 .text.event_handler 000000b4  00000000  00000000  00000858  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 10 .text.tcp_server_task 000001ee  00000000  00000000  0000090c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 11 .rodata       00000060  00000000  00000000  00000afc  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 12 .text.wifi_init_sta 000001a2  00000000  00000000  00000b5c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 13 .text.check_string 00000038  00000000  00000000  00000d00  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 14 .text.tcp_recv_task 000001ba  00000000  00000000  00000d38  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 15 .text.app_main 000000ae  00000000  00000000  00000ef4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 16 .rodata.__func__$8379 00000009  00000000  00000000  00000fa4  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 17 .rodata.__func__$8329 0000000e  00000000  00000000  00000fb0  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 18 .bss.s_retry_num 00000004  00000000  00000000  00000fc0  2**2
+                  ALLOC
+ 19 .rodata.WIFI_CONNECTED_BIT 00000004  00000000  00000000  00000fc0  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 20 .bss.s_wifi_event_group 00000004  00000000  00000000  00000fc4  2**2
+                  ALLOC
+ 21 .bss.sendflag 00000004  00000000  00000000  00000fc4  2**2
+                  ALLOC
+ 22 .bss.strbuffer 00000080  00000000  00000000  00000fc4  2**2
+                  ALLOC
+ 23 .bss.rx_buffer 000000c8  00000000  00000000  00000fc4  2**2
+                  ALLOC
+ 24 .debug_frame  000000a0  00000000  00000000  00000fc4  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 25 .debug_info   00002c34  00000000  00000000  00001064  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 26 .debug_abbrev 000003a4  00000000  00000000  00003c98  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 27 .debug_loc    000004b2  00000000  00000000  0000403c  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 28 .debug_aranges 00000048  00000000  00000000  000044ee  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 29 .debug_ranges 00000038  00000000  00000000  00004536  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 30 .debug_line   00000934  00000000  00000000  0000456e  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 31 .debug_str    00001ad2  00000000  00000000  00004ea2  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 32 .comment      0000003b  00000000  00000000  00006974  2**0
+                  CONTENTS, READONLY
+ 33 .xtensa.info  00000038  00000000  00000000  000069af  2**0
+                  CONTENTS, READONLY
+ 34 .xt.lit       00000028  00000000  00000000  000069e7  2**0
+                  CONTENTS, RELOC, READONLY
+ 35 .xt.prop      00000330  00000000  00000000  00006a0f  2**0
+                  CONTENTS, RELOC, READONLY
+
+iii.html.txt.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .rodata.embedded 00000ae7  00000000  00000000  00000034  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
