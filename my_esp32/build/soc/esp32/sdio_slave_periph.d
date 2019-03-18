@@ -10,7 +10,7 @@ esp32/sdio_slave_periph.o: \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_assert.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdlib.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/ieeefp.h \
  /home/rita/esp32/esp-idf/components/newlib/include/_ansi.h \
@@ -53,7 +53,7 @@ esp32/sdio_slave_periph.o: \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/stdlib.h:
 

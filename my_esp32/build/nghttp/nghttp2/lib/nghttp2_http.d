@@ -44,7 +44,7 @@ nghttp2/lib/nghttp2_http.o: \
  /home/rita/esp32/esp-idf/components/nghttp/nghttp2/lib/nghttp2_pq.h \
  /home/rita/esp32/esp-idf/components/nghttp/nghttp2/lib/nghttp2_callbacks.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/assert.h \
  /home/rita/esp32/esp-idf/components/nghttp/nghttp2/lib/nghttp2_helper.h
 
@@ -136,7 +136,7 @@ nghttp2/lib/nghttp2_http.o: \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/assert.h:
 

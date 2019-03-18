@@ -3,7 +3,7 @@ asio/asio/src/asio.o: \
  /home/rita/esp32/esp-idf/components/asio/asio/asio/include/asio/impl/src.hpp \
  /home/rita/esp32/esp-idf/components/asio/asio/asio/include/asio/detail/config.hpp \
  /home/rita/esp32/esp-idf/components/asio/port/include/esp_asio_config.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp \
  /home/rita/esp32/esp-idf/components/asio/asio/asio/include/asio/error.hpp \
  /home/rita/esp32/esp-idf/components/asio/asio/asio/include/asio/error_code.hpp \
@@ -327,7 +327,7 @@ asio/asio/src/asio.o: \
 
 /home/rita/esp32/esp-idf/components/asio/port/include/esp_asio_config.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp:
 

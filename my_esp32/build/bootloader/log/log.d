@@ -1,6 +1,6 @@
 log.o: /home/rita/esp32/esp-idf/components/log/log.c \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/bootloader/../include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/bootloader/../include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_assert.h \
@@ -12,7 +12,7 @@ log.o: /home/rita/esp32/esp-idf/components/log/log.c \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/bootloader/../include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/esp32/include/xtensa/hal.h:
 

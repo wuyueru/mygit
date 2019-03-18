@@ -1,4 +1,4 @@
-In archive /home/rita/esp32/my_esp32/build/vfs/libvfs.a:
+In archive /home/rita/mygit/my_esp32/build/vfs/libvfs.a:
 
 vfs_uart.o:     file format elf32-xtensa-le
 
@@ -184,15 +184,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  89 .debug_line   00001237  00000000  00000000  000066a5  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 90 .debug_str    000014e5  00000000  00000000  000078dc  2**0
+ 90 .debug_str    000014c0  00000000  00000000  000078dc  2**0
                   CONTENTS, READONLY, DEBUGGING
- 91 .comment      0000003b  00000000  00000000  00008dc1  2**0
+ 91 .comment      0000003b  00000000  00000000  00008d9c  2**0
                   CONTENTS, READONLY
- 92 .xtensa.info  00000038  00000000  00000000  00008dfc  2**0
+ 92 .xtensa.info  00000038  00000000  00000000  00008dd7  2**0
                   CONTENTS, READONLY
- 93 .xt.lit       000000d0  00000000  00000000  00008e34  2**0
+ 93 .xt.lit       000000d0  00000000  00000000  00008e0f  2**0
                   CONTENTS, RELOC, READONLY
- 94 .xt.prop      000015c0  00000000  00000000  00008f04  2**0
+ 94 .xt.prop      000015c0  00000000  00000000  00008edf  2**0
                   CONTENTS, RELOC, READONLY
 
 vfs.o:     file format elf32-xtensa-le
@@ -425,13 +425,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 112 .debug_line   00001e35  00000000  00000000  00009c2d  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-113 .debug_str    00001057  00000000  00000000  0000ba62  2**0
+113 .debug_str    00001032  00000000  00000000  0000ba62  2**0
                   CONTENTS, READONLY, DEBUGGING
-114 .comment      0000003b  00000000  00000000  0000cab9  2**0
+114 .comment      0000003b  00000000  00000000  0000ca94  2**0
                   CONTENTS, READONLY
-115 .xtensa.info  00000038  00000000  00000000  0000caf4  2**0
+115 .xtensa.info  00000038  00000000  00000000  0000cacf  2**0
                   CONTENTS, READONLY
-116 .xt.lit       00000180  00000000  00000000  0000cb2c  2**0
+116 .xt.lit       00000180  00000000  00000000  0000cb07  2**0
                   CONTENTS, RELOC, READONLY
-117 .xt.prop      00001ff8  00000000  00000000  0000ccac  2**0
+117 .xt.prop      00001ff8  00000000  00000000  0000cc87  2**0
                   CONTENTS, RELOC, READONLY

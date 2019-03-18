@@ -1,4 +1,4 @@
-In archive /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/esp_https_server/libesp_https_server.a:
+In archive /home/rita/mygit/my_esp32/build/esp_https_server/libesp_https_server.a:
 
 https_server.o:     file format elf32-xtensa-le
 
@@ -76,13 +76,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  35 .debug_line   000005fe  00000000  00000000  000023cb  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 36 .debug_str    00000e97  00000000  00000000  000029c9  2**0
+ 36 .debug_str    00000e72  00000000  00000000  000029c9  2**0
                   CONTENTS, READONLY, DEBUGGING
- 37 .comment      0000003b  00000000  00000000  00003860  2**0
+ 37 .comment      0000003b  00000000  00000000  0000383b  2**0
                   CONTENTS, READONLY
- 38 .xtensa.info  00000038  00000000  00000000  0000389b  2**0
+ 38 .xtensa.info  00000038  00000000  00000000  00003876  2**0
                   CONTENTS, READONLY
- 39 .xt.lit       00000048  00000000  00000000  000038d3  2**0
+ 39 .xt.lit       00000048  00000000  00000000  000038ae  2**0
                   CONTENTS, RELOC, READONLY
- 40 .xt.prop      00000354  00000000  00000000  0000391b  2**0
+ 40 .xt.prop      00000354  00000000  00000000  000038f6  2**0
                   CONTENTS, RELOC, READONLY

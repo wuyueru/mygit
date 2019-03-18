@@ -19,7 +19,7 @@ port/esp32/netif/dhcp_state.o: \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/sched.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/stdio.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdlib.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/rita/esp32/esp-idf/components/newlib/include/alloca.h \
@@ -178,7 +178,7 @@ port/esp32/netif/dhcp_state.o: \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/stdlib.h:
 

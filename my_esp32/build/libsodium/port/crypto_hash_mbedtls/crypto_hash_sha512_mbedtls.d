@@ -22,7 +22,7 @@ port/crypto_hash_mbedtls/crypto_hash_sha512_mbedtls.o: \
  /home/rita/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
  /home/rita/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha512.h \
  /home/rita/esp32/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/mbedtls/port/include/esp_mem.h \
  /home/rita/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
  /home/rita/esp32/esp-idf/components/newlib/include/limits.h \
@@ -73,7 +73,7 @@ port/crypto_hash_mbedtls/crypto_hash_sha512_mbedtls.o: \
 
 /home/rita/esp32/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/mbedtls/port/include/esp_mem.h:
 

@@ -1,4 +1,4 @@
-In archive /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/ulp/libulp.a:
+In archive /home/rita/mygit/my_esp32/build/ulp/libulp.a:
 
 ulp.o:     file format elf32-xtensa-le
 
@@ -40,15 +40,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  17 .debug_line   00000379  00000000  00000000  00000f13  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 18 .debug_str    000003dc  00000000  00000000  0000128c  2**0
+ 18 .debug_str    000003b7  00000000  00000000  0000128c  2**0
                   CONTENTS, READONLY, DEBUGGING
- 19 .comment      0000003b  00000000  00000000  00001668  2**0
+ 19 .comment      0000003b  00000000  00000000  00001643  2**0
                   CONTENTS, READONLY
- 20 .xtensa.info  00000038  00000000  00000000  000016a3  2**0
+ 20 .xtensa.info  00000038  00000000  00000000  0000167e  2**0
                   CONTENTS, READONLY
- 21 .xt.lit       00000018  00000000  00000000  000016db  2**0
+ 21 .xt.lit       00000018  00000000  00000000  000016b6  2**0
                   CONTENTS, RELOC, READONLY
- 22 .xt.prop      00000150  00000000  00000000  000016f3  2**0
+ 22 .xt.prop      00000150  00000000  00000000  000016ce  2**0
                   CONTENTS, RELOC, READONLY
 
 ulp_macro.o:     file format elf32-xtensa-le
@@ -91,13 +91,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  17 .debug_line   00000502  00000000  00000000  00001ddb  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 18 .debug_str    0000047f  00000000  00000000  000022dd  2**0
+ 18 .debug_str    0000045a  00000000  00000000  000022dd  2**0
                   CONTENTS, READONLY, DEBUGGING
- 19 .comment      0000003b  00000000  00000000  0000275c  2**0
+ 19 .comment      0000003b  00000000  00000000  00002737  2**0
                   CONTENTS, READONLY
- 20 .xtensa.info  00000038  00000000  00000000  00002797  2**0
+ 20 .xtensa.info  00000038  00000000  00000000  00002772  2**0
                   CONTENTS, READONLY
- 21 .xt.lit       00000010  00000000  00000000  000027cf  2**0
+ 21 .xt.lit       00000010  00000000  00000000  000027aa  2**0
                   CONTENTS, RELOC, READONLY
- 22 .xt.prop      000002dc  00000000  00000000  000027df  2**0
+ 22 .xt.prop      000002dc  00000000  00000000  000027ba  2**0
                   CONTENTS, RELOC, READONLY

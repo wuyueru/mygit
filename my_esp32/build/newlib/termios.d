@@ -1,5 +1,5 @@
 termios.o: /home/rita/esp32/esp-idf/components/newlib/termios.c \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/sys/termios.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -19,7 +19,7 @@ termios.o: /home/rita/esp32/esp-idf/components/newlib/termios.c \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/errno.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/reent.h
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/sys/termios.h:
 

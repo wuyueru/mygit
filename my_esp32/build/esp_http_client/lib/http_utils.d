@@ -25,7 +25,7 @@ lib/http_utils.o: \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/sched.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/stdio.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/assert.h \
  /home/rita/esp32/esp-idf/components/esp_http_client/lib/include/http_utils.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/time.h \
@@ -81,7 +81,7 @@ lib/http_utils.o: \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/assert.h:
 

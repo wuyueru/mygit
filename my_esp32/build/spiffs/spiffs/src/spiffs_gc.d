@@ -30,7 +30,7 @@ spiffs/src/spiffs_gc.o: \
  /home/rita/esp32/esp-idf/components/newlib/include/unistd.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/sys/unistd.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/unistd.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/log/include/esp_log.h \
  /home/rita/esp32/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -100,7 +100,7 @@ spiffs/src/spiffs_gc.o: \
 
 /home/rita/esp32/esp-idf/components/newlib/include/sys/unistd.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/log/include/esp_log.h:
 

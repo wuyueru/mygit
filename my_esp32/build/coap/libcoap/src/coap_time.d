@@ -38,7 +38,7 @@ libcoap/src/coap_time.o: \
  /home/rita/esp32/esp-idf/components/vfs/include/sys/ioctl.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/sys/select.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_task.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/hal.h \
@@ -198,7 +198,7 @@ libcoap/src/coap_time.o: \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_task.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 

@@ -34,7 +34,7 @@ deps_config := \
 	/home/rita/esp32/esp-idf/components/app_update/Kconfig.projbuild \
 	/home/rita/esp32/esp-idf/components/bootloader/Kconfig.projbuild \
 	/home/rita/esp32/esp-idf/components/esptool_py/Kconfig.projbuild \
-	/home/rita/esp32/my_esp32/main/Kconfig.projbuild \
+	/home/rita/mygit/my_esp32/main/Kconfig.projbuild \
 	/home/rita/esp32/esp-idf/components/partition_table/Kconfig.projbuild \
 	/home/rita/esp32/esp-idf/Kconfig
 

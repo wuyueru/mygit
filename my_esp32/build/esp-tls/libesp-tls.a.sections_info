@@ -1,4 +1,4 @@
-In archive /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/esp-tls/libesp-tls.a:
+In archive /home/rita/mygit/my_esp32/build/esp-tls/libesp-tls.a:
 
 esp_tls.o:     file format elf32-xtensa-le
 
@@ -116,13 +116,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  55 .debug_line   00000e21  00000000  00000000  00005dbc  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 56 .debug_str    00001970  00000000  00000000  00006bdd  2**0
+ 56 .debug_str    0000194b  00000000  00000000  00006bdd  2**0
                   CONTENTS, READONLY, DEBUGGING
- 57 .comment      0000003b  00000000  00000000  0000854d  2**0
+ 57 .comment      0000003b  00000000  00000000  00008528  2**0
                   CONTENTS, READONLY
- 58 .xtensa.info  00000038  00000000  00000000  00008588  2**0
+ 58 .xtensa.info  00000038  00000000  00000000  00008563  2**0
                   CONTENTS, READONLY
- 59 .xt.lit       000000b0  00000000  00000000  000085c0  2**0
+ 59 .xt.lit       000000b0  00000000  00000000  0000859b  2**0
                   CONTENTS, RELOC, READONLY
- 60 .xt.prop      0000099c  00000000  00000000  00008670  2**0
+ 60 .xt.prop      0000099c  00000000  00000000  0000864b  2**0
                   CONTENTS, RELOC, READONLY

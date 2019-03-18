@@ -1,6 +1,6 @@
 src/secure_boot_signatures.o: \
  /home/rita/esp32/esp-idf/components/bootloader_support/src/secure_boot_signatures.c \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -46,7 +46,7 @@ src/secure_boot_signatures.o: \
  /home/rita/esp32/esp-idf/components/esp32/include/rom/sha.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_types.h
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h:
 

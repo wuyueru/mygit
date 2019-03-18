@@ -9,7 +9,7 @@ xtensa_init.o: /home/rita/esp32/esp-idf/components/freertos/xtensa_init.c \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/corebits.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/config/system.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
@@ -59,7 +59,7 @@ xtensa_init.o: /home/rita/esp32/esp-idf/components/freertos/xtensa_init.c \
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

@@ -1,7 +1,7 @@
 port/esp_mem.o: \
  /home/rita/esp32/esp-idf/components/mbedtls/port/esp_mem.c \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/heap/include/esp_heap_caps.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -26,7 +26,7 @@ port/esp_mem.o: \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/heap/include/esp_heap_caps.h:
 

@@ -38,7 +38,7 @@ nghttp2/lib/nghttp2_outbound_item.o: \
  /home/rita/esp32/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h \
  /home/rita/esp32/esp-idf/components/nghttp/nghttp2/lib/nghttp2_rcbuf.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/assert.h
 
 /home/rita/esp32/esp-idf/components/nghttp/nghttp2/lib/nghttp2_outbound_item.h:
@@ -117,7 +117,7 @@ nghttp2/lib/nghttp2_outbound_item.o: \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/assert.h:
 /home/rita/esp32/esp-idf/components/nghttp/nghttp2/lib/nghttp2_outbound_item.c:

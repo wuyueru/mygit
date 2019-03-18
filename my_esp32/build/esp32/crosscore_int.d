@@ -18,7 +18,7 @@ crosscore_int.o: \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/string.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_err.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdio.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/types.h \
@@ -131,7 +131,7 @@ crosscore_int.o: \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_err.h:
 

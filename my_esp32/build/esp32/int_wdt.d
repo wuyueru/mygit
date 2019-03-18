@@ -1,5 +1,5 @@
 int_wdt.o: /home/rita/esp32/esp-idf/components/esp32/int_wdt.c \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/features.h \
@@ -90,7 +90,7 @@ int_wdt.o: /home/rita/esp32/esp-idf/components/esp32/int_wdt.c \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/periph_defs.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_int_wdt.h
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/stdint.h:
 

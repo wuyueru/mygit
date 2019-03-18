@@ -31,7 +31,7 @@ lib/http_auth.o: \
  /home/rita/esp32/esp-idf/components/esp32/include/rom/queue.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_err.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/assert.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_interface.h \
  /home/rita/esp32/esp-idf/components/lwip/lwip/src/include/lwip/ip_addr.h \
@@ -195,7 +195,7 @@ lib/http_auth.o: \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/assert.h:
 

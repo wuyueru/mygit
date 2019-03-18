@@ -37,7 +37,7 @@ time.o: /home/rita/esp32/esp-idf/components/newlib/time.c \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_assert.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/assert.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_intr_alloc.h \
@@ -173,7 +173,7 @@ time.o: /home/rita/esp32/esp-idf/components/newlib/time.c \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/assert.h:
 

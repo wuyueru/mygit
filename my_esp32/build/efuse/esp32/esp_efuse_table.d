@@ -1,6 +1,6 @@
 esp32/esp_efuse_table.o: \
  /home/rita/esp32/esp-idf/components/efuse/esp32/esp_efuse_table.c \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/efuse/include/esp_efuse.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -35,7 +35,7 @@ esp32/esp_efuse_table.o: \
  /home/rita/esp32/esp-idf/components/log/include/esp_log_internal.h \
  /home/rita/esp32/esp-idf/components/efuse/esp32/include/esp_efuse_table.h
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/efuse/include/esp_efuse.h:
 

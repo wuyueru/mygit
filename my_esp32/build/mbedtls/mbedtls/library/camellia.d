@@ -1,7 +1,7 @@
 mbedtls/library/camellia.o: \
  /home/rita/esp32/esp-idf/components/mbedtls/mbedtls/library/camellia.c \
  /home/rita/esp32/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/mbedtls/port/include/esp_mem.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdlib.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/ieeefp.h \
@@ -24,7 +24,7 @@ mbedtls/library/camellia.o: \
 
 /home/rita/esp32/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/mbedtls/port/include/esp_mem.h:
 

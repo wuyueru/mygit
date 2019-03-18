@@ -30,7 +30,7 @@ unity_runner.o: /home/rita/esp32/esp-idf/components/unity/unity_runner.c \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/assert.h \
  /home/rita/esp32/esp-idf/components/unity/include/unity_test_runner.h \
  /home/rita/esp32/esp-idf/components/newlib/include/setjmp.h \
@@ -100,7 +100,7 @@ unity_runner.o: /home/rita/esp32/esp-idf/components/unity/unity_runner.c \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/assert.h:
 

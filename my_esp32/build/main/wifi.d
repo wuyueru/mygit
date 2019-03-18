@@ -1,5 +1,5 @@
-wifi.o: /home/rita/esp32/my_esp32/main/wifi.c \
- /home/rita/esp32/my_esp32/main/wifi.h \
+wifi.o: /home/rita/mygit/my_esp32/main/wifi.c \
+ /home/rita/mygit/my_esp32/main/wifi.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_wifi.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -16,7 +16,7 @@ wifi.o: /home/rita/esp32/my_esp32/main/wifi.c \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_types.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/lock.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/rita/esp32/my_esp32/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -139,7 +139,7 @@ wifi.o: /home/rita/esp32/my_esp32/main/wifi.c \
  /home/rita/esp32/esp-idf/components/lwip/lwip/src/include/lwip/err.h \
  /home/rita/esp32/esp-idf/components/lwip/lwip/src/include/lwip/sys.h
 
-/home/rita/esp32/my_esp32/main/wifi.h:
+/home/rita/mygit/my_esp32/main/wifi.h:
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_wifi.h:
 
@@ -173,7 +173,7 @@ wifi.o: /home/rita/esp32/my_esp32/main/wifi.c \
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/rita/esp32/my_esp32/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 
@@ -416,4 +416,4 @@ wifi.o: /home/rita/esp32/my_esp32/main/wifi.c \
 /home/rita/esp32/esp-idf/components/lwip/lwip/src/include/lwip/err.h:
 
 /home/rita/esp32/esp-idf/components/lwip/lwip/src/include/lwip/sys.h:
-/home/rita/esp32/my_esp32/main/./wifi.c:
+/home/rita/mygit/my_esp32/main/./wifi.c:

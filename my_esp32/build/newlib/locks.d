@@ -16,7 +16,7 @@ locks.o: /home/rita/esp32/esp-idf/components/newlib/locks.c \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/rita/esp32/esp-idf/components/newlib/include/alloca.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/cpu.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -118,7 +118,7 @@ locks.o: /home/rita/esp32/esp-idf/components/newlib/locks.c \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/cpu.h:
 

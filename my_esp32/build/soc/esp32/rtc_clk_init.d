@@ -22,7 +22,7 @@ esp32/rtc_clk_init.o: \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_assert.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/assert.h \
  /home/rita/esp32/esp-idf/components/esp32/include/rom/rtc.h \
  /home/rita/esp32/esp-idf/components/esp32/include/rom/ets_sys.h \
@@ -107,7 +107,7 @@ esp32/rtc_clk_init.o: \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/assert.h:
 

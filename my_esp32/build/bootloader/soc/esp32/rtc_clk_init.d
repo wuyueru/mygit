@@ -8,7 +8,7 @@ esp32/rtc_clk_init.o: \
  /home/rita/esp32/esp-idf/components/esp32/include/rom/uart.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_types.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/bootloader/../include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/bootloader/../include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/rita/esp32/esp-idf/components/esp32/include/rom/gpio.h \
@@ -59,7 +59,7 @@ esp32/rtc_clk_init.o: \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/bootloader/../include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/uart_reg.h:
 

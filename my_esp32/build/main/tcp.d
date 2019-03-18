@@ -1,5 +1,5 @@
-tcp.o: /home/rita/esp32/my_esp32/main/tcp.c \
- /home/rita/esp32/my_esp32/main/tcp.h \
+tcp.o: /home/rita/mygit/my_esp32/main/tcp.c \
+ /home/rita/mygit/my_esp32/main/tcp.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/reent.h \
  /home/rita/esp32/esp-idf/components/newlib/include/_ansi.h \
@@ -15,7 +15,7 @@ tcp.o: /home/rita/esp32/my_esp32/main/tcp.c \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/rita/esp32/my_esp32/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -123,9 +123,9 @@ tcp.o: /home/rita/esp32/my_esp32/main/tcp.c \
  /home/rita/esp32/esp-idf/components/newlib/include/fcntl.h \
  /home/rita/esp32/esp-idf/components/newlib/include/string.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/string.h \
- /home/rita/esp32/my_esp32/main/led.h
+ /home/rita/mygit/my_esp32/main/led.h
 
-/home/rita/esp32/my_esp32/main/tcp.h:
+/home/rita/mygit/my_esp32/main/tcp.h:
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 
@@ -157,7 +157,7 @@ tcp.o: /home/rita/esp32/my_esp32/main/tcp.c \
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/rita/esp32/my_esp32/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 
@@ -373,5 +373,5 @@ tcp.o: /home/rita/esp32/my_esp32/main/tcp.c \
 
 /home/rita/esp32/esp-idf/components/newlib/include/sys/string.h:
 
-/home/rita/esp32/my_esp32/main/led.h:
-/home/rita/esp32/my_esp32/main/./tcp.c:
+/home/rita/mygit/my_esp32/main/led.h:
+/home/rita/mygit/my_esp32/main/./tcp.c:

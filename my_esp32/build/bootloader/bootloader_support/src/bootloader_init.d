@@ -1,7 +1,7 @@
 src/bootloader_init.o: \
  /home/rita/esp32/esp-idf/components/bootloader_support/src/bootloader_init.c \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/bootloader/../include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/bootloader/../include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/log/include/esp_log.h \
  /home/rita/esp32/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -61,7 +61,7 @@ src/bootloader_init.o: \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/bootloader/../include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/log/include/esp_log.h:
 

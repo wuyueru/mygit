@@ -21,7 +21,7 @@ heap_caps_init.o: \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -129,7 +129,7 @@ heap_caps_init.o: \
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

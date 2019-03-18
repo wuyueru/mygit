@@ -1,0 +1,58 @@
+In archive /home/rita/mygit/my_esp32/build/tcp/libtcp.a:
+
+tcp.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.tcp_recv_task 000000bc  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.tcp_send_task 00000028  00000000  00000000  000000f0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.tcp_server_task 000000d0  00000000  00000000  00000118  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .text         00000000  00000000  00000000  000001e8  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  4 .data         00000000  00000000  00000000  000001e8  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  5 .bss          00000000  00000000  00000000  000001e8  2**0
+                  ALLOC
+  6 .text.check_string 00000038  00000000  00000000  000001e8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .rodata.str1.4 000003a2  00000000  00000000  00000220  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  8 .text.tcp_recv_task 000001b6  00000000  00000000  000005c4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  9 .text.tcp_send_task 0000005f  00000000  00000000  0000077c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 10 .text.tcp_server_task 0000020a  00000000  00000000  000007dc  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 11 .bss.sendflag 00000004  00000000  00000000  000009e8  2**2
+                  ALLOC
+ 12 .bss.strbuffer 00000080  00000000  00000000  000009e8  2**2
+                  ALLOC
+ 13 .bss.rx_buffer 000000c8  00000000  00000000  000009e8  2**2
+                  ALLOC
+ 14 .debug_frame  00000070  00000000  00000000  000009e8  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_info   00000ffc  00000000  00000000  00000a58  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_abbrev 0000026f  00000000  00000000  00001a54  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 17 .debug_loc    0000036f  00000000  00000000  00001cc3  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 18 .debug_aranges 00000038  00000000  00000000  00002032  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 19 .debug_ranges 00000028  00000000  00000000  0000206a  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 20 .debug_line   0000060f  00000000  00000000  00002092  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 21 .debug_str    0000061f  00000000  00000000  000026a1  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 22 .comment      0000003b  00000000  00000000  00002cc0  2**0
+                  CONTENTS, READONLY
+ 23 .xtensa.info  00000038  00000000  00000000  00002cfb  2**0
+                  CONTENTS, READONLY
+ 24 .xt.lit       00000018  00000000  00000000  00002d33  2**0
+                  CONTENTS, RELOC, READONLY
+ 25 .xt.prop      00000240  00000000  00000000  00002d4b  2**0
+                  CONTENTS, RELOC, READONLY

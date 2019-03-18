@@ -1,5 +1,5 @@
-led.o: /home/rita/esp32/my_esp32/main/led.c \
- /home/rita/esp32/my_esp32/main/led.h \
+led.o: /home/rita/mygit/my_esp32/main/led.c \
+ /home/rita/mygit/my_esp32/main/led.h \
  /home/rita/esp32/esp-idf/components/driver/include/driver/gpio.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_err.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
@@ -23,7 +23,7 @@ led.o: /home/rita/esp32/my_esp32/main/led.c \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/sched.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/stdio.h \
  /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h \
- /home/rita/esp32/my_esp32/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdlib.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/rita/esp32/esp-idf/components/newlib/include/alloca.h \
@@ -42,7 +42,7 @@ led.o: /home/rita/esp32/my_esp32/main/led.c \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_intr_alloc.h \
  /home/rita/esp32/esp-idf/components/soc/include/soc/gpio_periph.h
 
-/home/rita/esp32/my_esp32/main/led.h:
+/home/rita/mygit/my_esp32/main/led.h:
 
 /home/rita/esp32/esp-idf/components/driver/include/driver/gpio.h:
 
@@ -90,7 +90,7 @@ led.o: /home/rita/esp32/my_esp32/main/led.c \
 
 /home/rita/esp32/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/rita/esp32/my_esp32/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/stdlib.h:
 
@@ -125,4 +125,4 @@ led.o: /home/rita/esp32/my_esp32/main/led.c \
 /home/rita/esp32/esp-idf/components/esp32/include/esp_intr_alloc.h:
 
 /home/rita/esp32/esp-idf/components/soc/include/soc/gpio_periph.h:
-/home/rita/esp32/my_esp32/main/./led.c:
+/home/rita/mygit/my_esp32/main/./led.c:

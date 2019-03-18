@@ -1,7 +1,7 @@
 esp32/cpu_util.o: \
  /home/rita/esp32/esp-idf/components/soc/esp32/cpu_util.c \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/bootloader/../include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/bootloader/../include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/cpu.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/corebits.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -17,7 +17,7 @@ esp32/cpu_util.o: \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/bootloader/../include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/cpu.h:
 

@@ -11,7 +11,7 @@ sleep_modes.o: /home/rita/esp32/esp-idf/components/esp32/sleep_modes.c \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/endian.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/param.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_sleep.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -141,7 +141,7 @@ sleep_modes.o: /home/rita/esp32/esp-idf/components/esp32/sleep_modes.c \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_sleep.h:
 

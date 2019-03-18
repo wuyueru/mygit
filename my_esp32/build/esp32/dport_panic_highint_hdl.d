@@ -14,7 +14,7 @@ dport_panic_highint_hdl.o: \
  /home/rita/esp32/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  /home/rita/esp32/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_panic.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
  /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h
@@ -47,7 +47,7 @@ dport_panic_highint_hdl.o: \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_panic.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/soc/esp32/include/soc/soc.h:
 

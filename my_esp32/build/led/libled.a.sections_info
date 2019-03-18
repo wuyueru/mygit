@@ -1,0 +1,46 @@
+In archive /home/rita/mygit/my_esp32/build/led/libled.a:
+
+led.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.led_on 00000004  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.led_off 00000004  00000000  00000000  00000038  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.init_led 0000000c  00000000  00000000  0000003c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .text         00000000  00000000  00000000  00000048  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  4 .data         00000000  00000000  00000000  00000048  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  5 .bss          00000000  00000000  00000000  00000048  2**0
+                  ALLOC
+  6 .text.led_on  0000000f  00000000  00000000  00000048  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .text.led_off 0000000f  00000000  00000000  00000058  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .text.init_led 00000020  00000000  00000000  00000068  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  9 .debug_frame  00000058  00000000  00000000  00000088  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 10 .debug_info   00000173  00000000  00000000  000000e0  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 11 .debug_abbrev 000000ad  00000000  00000000  00000253  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_aranges 00000030  00000000  00000000  00000300  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_ranges 00000020  00000000  00000000  00000330  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_line   0000011f  00000000  00000000  00000350  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_str    00000221  00000000  00000000  0000046f  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 16 .comment      0000003b  00000000  00000000  00000690  2**0
+                  CONTENTS, READONLY
+ 17 .xtensa.info  00000038  00000000  00000000  000006cb  2**0
+                  CONTENTS, READONLY
+ 18 .xt.lit       00000018  00000000  00000000  00000703  2**0
+                  CONTENTS, RELOC, READONLY
+ 19 .xt.prop      00000090  00000000  00000000  0000071b  2**0
+                  CONTENTS, RELOC, READONLY

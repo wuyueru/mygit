@@ -22,7 +22,7 @@ esp_timer.o: /home/rita/esp32/esp-idf/components/esp32/esp_timer.c \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_err.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdio.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/types.h \
@@ -139,7 +139,7 @@ esp_timer.o: /home/rita/esp32/esp-idf/components/esp32/esp_timer.c \
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/esp32/include/esp_err.h:
 

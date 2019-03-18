@@ -1,5 +1,5 @@
 intr_alloc.o: /home/rita/esp32/esp-idf/components/esp32/intr_alloc.c \
- /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h \
+ /home/rita/mygit/my_esp32/build/include/sdkconfig.h \
  /home/rita/esp32/esp-idf/components/newlib/include/stdint.h \
  /home/rita/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/rita/esp32/esp-idf/components/newlib/include/sys/features.h \
@@ -84,7 +84,7 @@ intr_alloc.o: /home/rita/esp32/esp-idf/components/esp32/intr_alloc.c \
  /home/rita/esp32/esp-idf/components/log/include/esp_log_internal.h \
  /home/rita/esp32/esp-idf/components/esp32/include/esp_ipc.h
 
-/home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/include/sdkconfig.h:
+/home/rita/mygit/my_esp32/build/include/sdkconfig.h:
 
 /home/rita/esp32/esp-idf/components/newlib/include/stdint.h:
 

@@ -1,4 +1,4 @@
-In archive /home/rita/esp32/esp-idf/examples/wifi/getting_started/station/build/wifi_provisioning/libwifi_provisioning.a:
+In archive /home/rita/mygit/my_esp32/build/wifi_provisioning/libwifi_provisioning.a:
 
 wifi_config.o:     file format elf32-xtensa-le
 
@@ -56,15 +56,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  25 .debug_line   000007e6  00000000  00000000  000025a6  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 26 .debug_str    0000137c  00000000  00000000  00002d8c  2**0
+ 26 .debug_str    00001357  00000000  00000000  00002d8c  2**0
                   CONTENTS, READONLY, DEBUGGING
- 27 .comment      0000003b  00000000  00000000  00004108  2**0
+ 27 .comment      0000003b  00000000  00000000  000040e3  2**0
                   CONTENTS, READONLY
- 28 .xtensa.info  00000038  00000000  00000000  00004143  2**0
+ 28 .xtensa.info  00000038  00000000  00000000  0000411e  2**0
                   CONTENTS, READONLY
- 29 .xt.lit       00000038  00000000  00000000  0000417b  2**0
+ 29 .xt.lit       00000038  00000000  00000000  00004156  2**0
                   CONTENTS, RELOC, READONLY
- 30 .xt.prop      00000414  00000000  00000000  000041b3  2**0
+ 30 .xt.prop      00000414  00000000  00000000  0000418e  2**0
                   CONTENTS, RELOC, READONLY
 
 wifi_constants.pb-c.o:     file format elf32-xtensa-le
