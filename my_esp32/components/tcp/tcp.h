@@ -19,7 +19,7 @@
 #define PORT 80
 
 void check_string(char *str,char *rx);
- void tcp_recv_task(void *pvParameters);
+void tcp_recv_task(void *pvParameters);
 void tcp_server_task(void *pvParameters);
 
 #endif

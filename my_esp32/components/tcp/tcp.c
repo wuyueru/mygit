@@ -43,28 +43,6 @@ void check_string(char *str,char *rx)
     }
 }
 
-void tcp_send_task(void *pvParameters)
-{
-    int err;
-    int len;
-    int sock = *(int *)pvParameters;
-    while(1)
-    {
-        if(sendflag == 1)
-        {
-            sendflag = 0;
-            len = sprintf(rx_buffer,"HTTP/1.1 200 OK\r\nConnection: close\r\nContent-Length: 12\r\n\r\nHello world\r\n");
-            err = send(sock, rx_buffer, len, 0);
-            if (err < 0) {
-                 ESP_LOGE(TAG, "Error occured during sending: errno %d", errno);
-                break;
-            }
-        }
-        
-    }
-      
-}
-
  void tcp_recv_task(void *pvParameters)
 {
     int sock = *(int *)pvParameters;
@@ -203,7 +181,6 @@ void tcp_server_task(void *pvParameters)
                 sockfd = sock;
                 sendflag = 1;
                 xTaskCreate(tcp_recv_task, "tcp_recv", 4096*2, &sockfd, 7, NULL);
-                //xTaskCreate(tcp_send_task, "tcp_send", 4096, &sockfd, 8, NULL);
     
             }
             else {
